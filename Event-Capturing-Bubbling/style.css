@@ -1,0 +1,14 @@
+#parent{
+    background-color: rgb(124, 119, 219);
+    width: 50%;
+    padding: 20px;
+}
+
+#child-one{
+    background-color: rgb(214, 190, 53);
+    padding: 20px;
+}
+#child-two{
+    background-color: rgb(162, 159, 154);
+    padding: 8px;
+}
